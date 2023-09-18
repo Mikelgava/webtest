@@ -1,0 +1,29 @@
+.div{
+    background-color: green;
+    height: 250px;
+    width: 250px;
+    left: 30%;
+    top: 120px;
+    position:absolute;
+    
+}
+
+h1{
+    
+    color: red;
+    font-size: 150px;
+    font-family: monospace;
+    font-weight: 900;
+    
+}
+
+.yellow{
+    background-color: yellow;
+    height: 250px;
+    width: 250px;
+    left: 30%;
+    top: 120px;
+    position:absolute;
+
+}
+
